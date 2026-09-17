@@ -502,7 +502,7 @@ Hosted using **MongoDB Atlas**
 
 ### 🤖 AI Movie Recommendation Assistant
 
-![AI Recommendation](screenshots/ai-recommendation.png)
+![AI Recommendation](screenshots/ai-assistant.png)
 
 ### 🎙️ Voice Recommendation
 
